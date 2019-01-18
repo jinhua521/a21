@@ -32,7 +32,16 @@ int main(){
 
           }
            if(code == 2){
-              
+               printf("shurushanchudexueshengchenji :\n");
+               char m;
+               scanf("%c",&m);
+                 scanf("%c",&m);
+
+                 index--;
+                 printf("shanchuchenggong\n");
+                 char x;
+                 scanf("%c",&x);
+                  scanf("%c",&x);
           }
            if(code == 3){
           
